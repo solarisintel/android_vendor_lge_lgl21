@@ -1,0 +1,10 @@
+this file is ls970-cm11 proprietary files
+
+not found is ls970
+
+/lib/soundfx/libfmas.so
+lib/libmm-abl.so
+lib/libmm-abl-oem.so
+bin/mm-pp-daemon
+lib/libdaaCrypto.so
+
